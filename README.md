@@ -3,7 +3,7 @@ Interactive Banking Analysis Dashboard built with Power BI to analyze loan perfo
 
 ## 📊 Dashboard Preview
 
-![Banking Analysis Dashboard](./Banking_Analysis_Dashboard.png)
+![Banking Analysis Dashboard](./Bank_Analysis.PNG)
 
 🏦 Banking Analysis Dashboard
 
